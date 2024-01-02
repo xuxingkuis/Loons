@@ -1,0 +1,9 @@
+# Shadowrocket Remote Adblock
+# url = https://raw.githubusercontent.com/MCdasheng/Module/main/RemoteAdblock.list
+
+# HDOBOX 去广告
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,doubleclick.net
+# YaNetflix 去广告
+URL-REGEX,^http?:\/\/pipi\.4kya\.com/\/xgapp\.php\/v3\/advert.position.[^2](?<=position..)
